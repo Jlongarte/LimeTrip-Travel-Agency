@@ -8,14 +8,14 @@ const template = () => `
         <div class="overlay">
           <img src="/assets/logotrip-removebg-preview.png" alt="Logo"/>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, nam? Iusto deleniti consequatur, eos exercitationem voluptatum rerum? Quos, molestiae? Explicabo ipsam dolores sunt ex?</p>
-          <button><a href="/products"/>Browse Destinations<a></button>
+          <a href="/products"><button>Browse Destinations</button></a>
         </div>
       </div>
       <div class="gallery-item" style="background-image: url('https://theme793-travel-agency.myshopify.com/cdn/shop/files/img_27_1728x.png?v=1659424331');">
         <div class="overlay">
             <h1>Choose your destination</h1>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, nam? Iusto deleniti consequatur, eos exercitationem voluptatum rerum? Quos, molestiae? Explicabo ipsam dolores sunt ex?</p>
-          <button><a href="/products"/>Browse Destinations<a></button>
+          <a href="/products"><button>Browse Destinations</button></a>
         </div>
       </div>
     </div>
