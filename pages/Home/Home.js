@@ -6,7 +6,7 @@ const template = () => `
     <div class="gallery-container">
       <div class="gallery-item" style="background-image: url('https://theme793-travel-agency.myshopify.com/cdn/shop/files/img_13_1728x.png?v=1659423335');">
         <div class="overlay">
-          <img src="/public/assets/logotrip-removebg-preview.png" alt="Logo"/>
+          <img src="/assets/logotrip-removebg-preview.png" alt="Logo"/>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, nam? Iusto deleniti consequatur, eos exercitationem voluptatum rerum? Quos, molestiae? Explicabo ipsam dolores sunt ex?</p>
           <button><a href="/products"/>Browse Destinations<a></button>
         </div>
